@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_2e18b09874f15dff2a946f47634a4c3abfb59376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_f494259f19f0703b54adbd55b9ee3ad3ffa9e396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_dbe0d922abe1e6a14c25a9b1c9ea8ba8c5d03297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_449449a1d7844e1f0a176cb9a132a126ba6fabd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_e6f81e24c23287a9471788d02a86c52576ebc857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_b8cb4125de2bb5f1660100ee3350c00a1de303a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_bb591c137ed16722d168052796fde2755fb75a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.20.0_e33206cb2dee0f8e053f61ee758035b538d0f843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_3db9efa52073d7a8a773a4f19a66ea9925be61f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_2fdabaae730a7461959f98d4f4823ea7bcccd5c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_3b65145242367015f7dfdb7131b6cdc82b519fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_978adc98d6a8b70e083711e67bbef22793943608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_ac0631fae61568f787175bff22412c46ef762944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_89e3742180191774764c1f83737d59697a69383c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_64e8610da23cac262ebcaf1d1677f4b9104b2adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.20.0_4e56f7d40266b12100dcb0c75cb8e1560332338d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_7fb4af80137d87017488a6b202fee7ae527c4a2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0_68680bf2ccd7806667a900967a130e68dc2b84b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_359a0e4bbb8b3967aae79fd801780a3cd8b1d13a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_0512a0c6d7e2bc127b4291544c798e10bc7fa948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_dfd6e7325955fc4dcaf172cf11642cf709fb068e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_3be4911f2bd18e3d81162bb3656389eed056dce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_e3679e7ef15b3895a43d39123600acfa72488e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_4cb9fe2e3c17a86086d3070c51ce227b39032ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_7c678eeb7d90a753124ab54ae64280d3d97afbd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6dfd9de8634d4e1e12b7fb893470b9846476655d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.20.0_7f80245d53e3c136d3f47fb43720699ae4a6e6bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_b95423a7b6c472d0b1395b03c0a413c26530ab61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_c8c59a7a16df6d895e7c6e3cb541aea6fc6a0c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_057f85a29570c86bc696109f40ff850411f1b86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\google-api-client-1.20.0_d8ebab977a12c2b613329d4622cbb0f7fee5973b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_117d2846ae34ec611920df8ed7625c0e8575d114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3_b7a4b8af64ba906f9d3c358b87d9b030feefbab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_b91ea90a42fc9b153908e6aeb8b192358371de85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_fcc62e12b21f60b24790369076b3b506d234b1e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_032ae32697c103d9e95397e20f65ca9f12a55586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_166d4044d8bc1723522d174566dd751a48f0741d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_65c367594828038269748ea08dafa47d913d55bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_2f3a8f673da8015b8a8033d215bf347536e13d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_0a80e1908a6a56a090af5a76d80e6457ce085047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_0d0022dcd574e8a2cdea70bc8e521c31fda640e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_2c728daa5994b5a74d90ffb1d54ab19137316f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_a30aca0da4d04db78d036d2cf5a26c0f71c02d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d9a0f5f4a8b48eab6c02d7914856352c2efcf9">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\backend-android-endpoints_92d674a8b702a442f8bc5e55993f4a0ab3943a6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_20b0ef47f51c947da98548230786931b8efbf6fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_c2a235e7884d7b640e9e3b8ee3494f02f034548d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_4b0f0a6a553af6cd52cda1af497a2f58721fe31e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.20.0_e5fcd1527f96840875d213b62146ce4779e07e53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_b36fa1d6a7f3563e69d6afb98faf453c65cdf589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_d1a570da3cb6c250caf477686ce5cdf1630afa13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_cb6422afad18cf53970ca4d56efbd8975306f2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_d15b8e9d7afb204b1085f4ccdb04965b44f03f3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_c7a5c076503e00eb7c134f45ee703b441f0fd5c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_d8242f8c0033cca2e04ea1b560998e456f3f45e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_6da7bf3d44a9831720ff8970f8e0b8974e3a673f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_a7d2e3a826a582ed93f3068223edce5d71e3417a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_9495a8d3186d79b6609db8ee8e9669dcb8f3e716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_14e07c60a76db77c5e498717ce936e9caf9ee082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_f10558738261bee7458c7cd1915667a06fbeeddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_151ee4bc3f7d9a773dd7964eebfa20ecd39abab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_ac77fe910d9e6924feccb20cf5afab4993af95cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_46f8b5c188fe4a1e2479ee60b24e4268dce39fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_5806aec0b0958e31cb3b199766e904d313425e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_494d0654448002249c938fde8e838dcd1871e43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_dfffe08c47b37824408bb052b28e266cb701414c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_4b2e6c8d5358fc742980ae1819cc63d4516d11b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_cf934d1f37c8153d0103a6c22bbd19c000ca4698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_0b7678ad8573efaf34e8c94de30abf3e31dace85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_67f45efe21064370d53652e369051221ef69505c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_7ca3bfb182ac2ff893f675f85b621474c217cb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_3dae868a421bf79fcc90dce1cd07bb233c74fd28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_5628e162d3f8f22ef5cf6795e7b098613d00c5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7cf6aee84e4e7b6dc4b67dd0192f620df44ed5d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_61523e480197a295866d71c76c58e882ec097387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_dd957aedca67d920cc4893d8c3011dc8634ad83d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_da5ae6afb73eb713776fcea0f6f0c553adcdf6c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\google-http-client-1.20.0_2c27fe3425c9cc8ec7a86059a8075722066527bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\TaskMasterPro\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_4808a7e6ee6cbef9170731885b5ccb5a93e4a0e6.jar" />
+    </item>
+
+</items>

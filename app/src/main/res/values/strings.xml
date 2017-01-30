@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TaskMasterPro</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_text">Google Sign-In</string>
+    <string name="sign_out">Sign out</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_in_fmt">Signed in as: %s</string>
+
+    <!-- Content Description for images -->
+    <string name="desc_google_icon">Google Logo</string>
+    <string name="title_activity_handle_client">HandleClient</string>
+    <string name="title_activity_handle_connection">HandleConnection</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registration_form">RegistrationForm</string>
+    <string name="title_activity_user_preference_demo">UserPreferenceDemoActivity</string>
+
+    <string name="auth_code_fmt">Auth Code: %s</string>
+
+    <string name="server_client_id">513746342921-7sc1nh6chieemtk1s861qfclcsqqjfbp.apps.googleusercontent.com</string>
+    <string name="title_activity_group_page">GroupPageActivity</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="title_activity_create_group">CreateGroupActivity</string>
+</resources>
